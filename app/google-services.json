@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675573457556",
+    "project_id": "autos-30310",
+    "storage_bucket": "autos-30310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675573457556:android:95c1bfff487764dc29ca81",
+        "android_client_info": {
+          "package_name": "com.autos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675573457556-bo59vbvh41gkqhdret3ciccbat8m3rk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqSd-AZ2RsE2HN3gNvlouRQOMFMaZX8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675573457556-bo59vbvh41gkqhdret3ciccbat8m3rk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
