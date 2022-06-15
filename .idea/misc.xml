@@ -4,8 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/app_bar_principal.xml" value="0.19427083333333334" />
         <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/content_principal.xml" value="0.25" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/fragment_add_auto.xml" value="0.25" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/fragment_auto.xml" value="0.25" />
         <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/fragment_slideshow.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/layout/nav_header_principal.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/menu/activity_principal_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/kemta/Documents/Movil/Autos/app/src/main/res/menu/principal.xml" value="0.25" />
       </map>
     </option>
   </component>

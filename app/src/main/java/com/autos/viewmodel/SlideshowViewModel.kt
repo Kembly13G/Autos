@@ -1,4 +1,4 @@
-package com.autos.ui.ui.slideshow
+package com.autos.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

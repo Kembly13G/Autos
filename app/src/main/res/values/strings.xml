@@ -12,7 +12,19 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_auto">Autos</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_marca">Marca del auto</string>
+    <string name="msg_modelo">Modelo</string>
+    <string name="msg_color">Color</string>
+    <string name="msg_anualidad">Año</string>
+    <string name="msg_placa">Placa</string>
+    <string name="msg_pais">País de origen</string>
+    <string name="msg_plazas">Cantidad de plazas</string>
+    <string name="msg_cilindraje">Cilindraje</string>
+    <string name="bt_agregar">Agregar</string>
+    <string name="autoAdded">Auto agregado</string>
+    <string name="noData">Faltan datos</string>
 </resources>
